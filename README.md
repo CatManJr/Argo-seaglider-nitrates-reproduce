@@ -1,6 +1,6 @@
-# Argo-Seaglider RFR Reproduction
+# An Experiment Reproduction: Nitrate Observations on SOGOS Seagliders
 
-Reproduction of the random forest regression pipeline from:
+A reproduction of the random forest regression pipeline from:
 
 > Song, S., et al. *Random forest regression using autonomous in situ ocean observations: Inferring small-scale nutrient variability during a Southern Ocean field experiment.* doi: https://doi.org/10.1175/AIES-D-24-0048.1
 
